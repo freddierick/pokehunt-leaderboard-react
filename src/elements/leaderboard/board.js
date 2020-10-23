@@ -32,8 +32,9 @@ class Board extends React.Component {
               });
             }
           )
-        return;
-      }
+        return console.log(dataLoaded);
+        
+      };
 
     render() {
 
@@ -90,3 +91,4 @@ class Board extends React.Component {
 }
 
 export default Board;
+
