@@ -1,7 +1,7 @@
 import React from 'react';
 import { Header, Footer, Board as Leaderboard } from "./elements/";
 import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
-
+import './style.css';
 function App() {
   return (
     <div>

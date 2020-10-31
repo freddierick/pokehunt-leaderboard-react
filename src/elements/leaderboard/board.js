@@ -11,7 +11,7 @@ class Board extends React.Component {
           };
       }
       componentDidMount() {
-        fetch("https://api.pokehunt.xyz/v2/leaderboard/"+this.props.page)
+        fetch("https://fre.rest/v2/leaderboard/"+this.props.page)
           .then(res => res.json())
           .then(
             (result) => {
@@ -32,7 +32,7 @@ class Board extends React.Component {
               });
             }
           )
-        return console.log(dataLoaded);
+        // return console.log(dataLoaded);
         
       };
 
