@@ -26,7 +26,7 @@ class Header extends React.Component {
             <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand" href="https:pokehunt.xyz">
-                <img  src="https://images-ext-2.discordapp.net/external/_gNpqRTPmoJrbr4NDZAKoudLlB82y172jEJv5KrcR_I/%3Fsize%3D256/https/cdn.discordapp.com/avatars/716533909818572850/f34735e660341b5a88dc005902dfd9ce.png" width="30" height="30" alt="PokeHunt Icon" class="d-inline-block align-top"></img> PokeHunt </a>
+                <img  src="https://media.discordapp.net/attachments/718624506305970259/774307340753174528/pokebal_square.png" width="30" height="30" alt="PokeHunt Icon" class="d-inline-block align-top"></img> PokeHunt </a>
         
             <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">

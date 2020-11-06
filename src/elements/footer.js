@@ -24,16 +24,16 @@ class Footer extends React.Component {
 
       <ul class="list-unstyled">
         <li>
-          <a href="https://leaderboard.pokehunt.xyz/">Home</a>
+          <a href="https://pokehunt.xyz/leaderboard/">Home</a>
         </li>
         <li>
-          <a href="https://leaderboard.pokehunt.xyz/pokemon">Pokemon</a>
+          <a href="https://pokehunt.xyz/leaderboard/pokemon">Pokemon</a>
         </li>
         <li>
-          <a href="https://leaderboard.pokehunt.xyz/credits">Credits</a>
+          <a href="https://pokehunt.xyz/leaderboard/credits">Credits</a>
         </li>
         <li>
-          <a href="https://leaderboard.pokehunt.xyz/donations">Donations</a>
+          <a href="https://pokehunt.xyz/leaderboard/donations">Donations</a>
         </li>
       </ul>
 
